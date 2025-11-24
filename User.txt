@@ -1,0 +1,14 @@
+1;cashier;tre;;cashier;san louis obispo;000
+
+2;joseph;tribbiani;;customer;newyork;j1
+
+10;ivan;rossi;;customer;genova;ll
+
+11;mirko;viroli;;customer;;mk1
+
+3;fab;rick;;customer;;fab
+
+
+
+
+4;admin;due;;manager;faenza;123
